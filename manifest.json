@@ -1,0 +1,52 @@
+{
+  "name": "Syed Ahmer Shah Portfolio",
+  "short_name": "Ahmer Portfolio",
+  "description": "Software Engineer Portfolio showcasing projects, skills, and achievements",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0d17",
+  "theme_color": "#8a2be2",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./Images/Favicon/Favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./Images/Favicon/Favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./Images/Favicon/Favicon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./Images/Favicon/Favicon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./Images/Screenshots/desktop.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Portfolio Homepage on Desktop"
+    },
+    {
+      "src": "./Images/Screenshots/mobile.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "label": "Portfolio Homepage on Mobile"
+    }
+  ]
+} 

@@ -1,0 +1,19 @@
+# robots.txt for https://ahmershahdev.github.io/Portfolio/
+# Syed Ahmer Shah's Portfolio Website
+
+User-agent: *
+Allow: /
+
+# Block access to specific files and directories
+Disallow: /Images/
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /node_modules/
+Disallow: /package.json
+Disallow: /package-lock.json
+
+# Cache Control
+Crawl-delay: 1
+
+# Primary Sitemap
+Sitemap: https://ahmershahdev.github.io/Portfolio/sitemap.xml 
