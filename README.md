@@ -33,8 +33,8 @@ Welcome to my professional portfolio! This project showcases my journey as a Sof
 ### 🎨 Modern Design
 - **Sleek UI/UX** with glass-morphism effects
 - **Responsive layout** optimized for all devices
-- **Interactive 3D animations** using Three.js
-- **Smooth transitions** powered by Anime.js
+- **Interactive 3D animations** using Three.js ( through AI technologies )
+- **Smooth transitions** powered by Anime.js ( through AI technologies )
 
 ### ⚡ Performance
 - **Optimized asset loading** with lazy loading
@@ -65,8 +65,8 @@ Welcome to my professional portfolio! This project showcases my journey as a Sof
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ahmershahdev/Portfolio.git
-   cd Portfolio
+   git clone https://github.com/ahmershahdev/old_portfolio.git
+   cd old_portfolio
    ```
 
 2. **Open in browser**
