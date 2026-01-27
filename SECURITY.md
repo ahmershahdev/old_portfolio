@@ -2,13 +2,13 @@
 
 ## ✅ Supported Versions
 
-This portfolio is a living project — security updates and improvements are applied to the latest version only.  
+This portfolio is an old project — security updates and improvements are applied to the latest version only.  
 Older versions are not actively maintained.
 
 | Version | Supported |
 | ------- | ---------- |
-| Latest  | ✅ |
-| Older   | ❌ |
+| Latest  | ❌ |
+| Older   | ✅ |
 
 ---
 
